@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34439369-d039-4097-aed2-86f93621c6c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HerkouappTestCases.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,10 +41,92 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.HerkouappTestCases.addRemoveElements.executor": "Run",
+    "TestNG.HerkouappTestCases.checkBoxes.executor": "Run",
+    "TestNG.HerkouappTestCases.contextMenu.executor": "Run",
+    "TestNG.HerkouappTestCases.dropdown.executor": "Run",
+    "TestNG.HerkouappTestCases.entryAd.executor": "Run",
+    "TestNG.HerkouappTestCases.executor": "Run",
+    "TestNG.HerkouappTestCases.formAuthentication.executor": "Run",
+    "TestNG.HerkouappTestCases.javaScriptAlert.executor": "Run",
+    "TestNG.HerkouappTestCases.keyPresses.executor": "Run",
+    "TestNG.HerkouappTestCases.multipleWindow.executor": "Run",
+    "TestNG.HerkouappTestCases.redirectLink.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.HerkouappTestCases.addRemoveElements">
+    <configuration name="HerkouappTestCases" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HerkouappTestCases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HerkouappTestCases" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HerkouappTestCases.addRemoveElements" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HerkouappTestCases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HerkouappTestCases" />
+      <option name="METHOD_NAME" value="addRemoveElements" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HerkouappTestCases.keyPresses" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HerkouappTestCases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HerkouappTestCases" />
+      <option name="METHOD_NAME" value="keyPresses" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HerkouappTestCases.multipleWindow" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HerkouappTestCases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HerkouappTestCases" />
+      <option name="METHOD_NAME" value="multipleWindow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HerkouappTestCases.redirectLink" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HerkouappTestCases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HerkouappTestCases" />
+      <option name="METHOD_NAME" value="redirectLink" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HerkouappTestCases.addRemoveElements" />
+        <item itemvalue="TestNG.HerkouappTestCases" />
+        <item itemvalue="TestNG.HerkouappTestCases.redirectLink" />
+        <item itemvalue="TestNG.HerkouappTestCases.multipleWindow" />
+        <item itemvalue="TestNG.HerkouappTestCases.keyPresses" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
